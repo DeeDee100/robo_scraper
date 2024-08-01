@@ -53,7 +53,7 @@ def capturar_dados_produtos(url):
 
 # Set up email account information
 # email_address = "testerobo55@gmail.com"
-# email_password = "ozpi owip wonz luhv"
+# email_password = ""
 # smtp_server = "smtp.gmail.com"
 # smtp_port = 587
 
@@ -79,7 +79,7 @@ def capturar_dados_produtos(url):
 def send_mail():
     
     email_address = "testerobo55@gmail.com"
-    email_password = "ozpi owip wonz luhv"
+    email_password = ""
     smtp_server = "smtp.gmail.com"
     smtp_port = 587
     

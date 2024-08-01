@@ -64,7 +64,7 @@ def get_dados_produtos(html):
 def send_mail():
 
     email_address = "testerobo55@gmail.com"
-    email_password = "ozpi owip wonz luhv"
+    email_password = "senha aqui"
     smtp_server = "smtp.gmail.com"
     smtp_port = 587
 
